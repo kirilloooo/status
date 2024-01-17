@@ -21,6 +21,8 @@ sites:
     url: https://api.kiro.pw
   - name: t.me/FileWithURLBot
     url: $TG_BOT_PLTFRM
+  - name: test error
+    url: error-site-618.net
 
 status-website:
   favicon: https://kiro.pw/favicon.png
