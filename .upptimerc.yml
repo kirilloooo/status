@@ -23,6 +23,7 @@ sites:
     url: $TG_BOT_PLTFRM
 
 status-website:
+  favicon: https://kiro.pw/favicon.png
   theme: night
   customHeadHtml: "<script data-host="https://ytics.fy.webs.nf" data-dnt="false" src="https://ytics.fy.webs.nf/js/script.js" id="ZwSg9rf6GA" async defer></script>"
   # Add your custom domain name, or remove the `cname` line if you don't have a domain
