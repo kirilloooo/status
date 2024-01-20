@@ -22,18 +22,20 @@
     "url": "https://m.kiro.pw",
     "icon": "https://icons.duckduckgo.com/ip3/m.kiro.pw.ico",
     "slug": "kiro-mail",
-    "status": "up",
+    "status": "down",
     "uptime": "100.00%",
-    "uptimeDay": "100.00%",
+    "uptimeDay": "99.98%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
-    "time": 1558,
-    "timeDay": 1568,
-    "timeWeek": 1558,
-    "timeMonth": 1558,
-    "timeYear": 1558,
-    "dailyMinutesDown": {}
+    "time": 2575,
+    "timeDay": 7157,
+    "timeWeek": 2575,
+    "timeMonth": 2575,
+    "timeYear": 2575,
+    "dailyMinutesDown": {
+      "2024-01-20": 0
+    }
   },
   {
     "name": "ShortLink",
@@ -59,18 +61,18 @@
     "icon": "https://icons.duckduckgo.com/ip3/fusionflow.cc.nf.ico",
     "slug": "fusion-flow",
     "status": "up",
-    "uptime": "97.82%",
-    "uptimeDay": "93.28%",
-    "uptimeWeek": "97.82%",
-    "uptimeMonth": "97.82%",
-    "uptimeYear": "97.82%",
+    "uptime": "87.96%",
+    "uptimeDay": "58.75%",
+    "uptimeWeek": "87.96%",
+    "uptimeMonth": "87.96%",
+    "uptimeYear": "87.96%",
     "time": 1113,
     "timeDay": 1040,
     "timeWeek": 1113,
     "timeMonth": 1113,
     "timeYear": 1113,
     "dailyMinutesDown": {
-      "2024-01-20": 97
+      "2024-01-20": 594
     }
   },
   {
@@ -97,11 +99,11 @@
     "icon": "https://icons.duckduckgo.com/ip3/ytics.fy.webs.nf.ico",
     "slug": "ytics",
     "status": "up",
-    "uptime": "97.83%",
+    "uptime": "98.05%",
     "uptimeDay": "93.33%",
-    "uptimeWeek": "97.83%",
-    "uptimeMonth": "97.83%",
-    "uptimeYear": "97.83%",
+    "uptimeWeek": "98.05%",
+    "uptimeMonth": "98.05%",
+    "uptimeYear": "98.05%",
     "time": 1224,
     "timeDay": 1290,
     "timeWeek": 1224,
@@ -116,18 +118,20 @@
     "url": "https://domains.kiro.pw",
     "icon": "https://icons.duckduckgo.com/ip3/domains.kiro.pw.ico",
     "slug": "kiro-domains-support",
-    "status": "up",
+    "status": "down",
     "uptime": "100.00%",
-    "uptimeDay": "100.00%",
+    "uptimeDay": "99.99%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
-    "time": 606,
-    "timeDay": 510,
-    "timeWeek": 606,
-    "timeMonth": 606,
-    "timeYear": 606,
-    "dailyMinutesDown": {}
+    "time": 596,
+    "timeDay": 506,
+    "timeWeek": 596,
+    "timeMonth": 596,
+    "timeYear": 596,
+    "dailyMinutesDown": {
+      "2024-01-20": 0
+    }
   },
   {
     "name": "KiroAPI",
@@ -152,17 +156,19 @@
     "url": "$TG_BOT_PLTFRM",
     "icon": "https://icons.duckduckgo.com/ip3/null.ico",
     "slug": "t-me-file-with-url-bot",
-    "status": "up",
+    "status": "down",
     "uptime": "100.00%",
-    "uptimeDay": "100.00%",
+    "uptimeDay": "99.99%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
-    "time": 502,
-    "timeDay": 444,
-    "timeWeek": 502,
-    "timeMonth": 502,
-    "timeYear": 502,
-    "dailyMinutesDown": {}
+    "time": 490,
+    "timeDay": 407,
+    "timeWeek": 490,
+    "timeMonth": 490,
+    "timeYear": 490,
+    "dailyMinutesDown": {
+      "2024-01-20": 0
+    }
   }
 ]
