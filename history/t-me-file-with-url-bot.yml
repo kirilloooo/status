@@ -1,7 +1,7 @@
 url: $TG_BOT_PLTFRM
-status: up
-code: 200
-responseTime: 485
-lastUpdated: 2024-02-13T23:13:01.597Z
+status: down
+code: 500
+responseTime: 436
+lastUpdated: 2024-02-14T20:37:18.188Z
 startTime: 2024-01-17T00:25:05.090Z
 generator: Upptime <https://github.com/upptime/upptime>
