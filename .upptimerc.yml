@@ -25,14 +25,14 @@ sites:
 status-website:
   favicon: https://kiro.pw/favicon.png
   theme: night
-  customHeadHtml: "<script data-host='https://ytics.fy.webs.nf' data-dnt='false' src='https://ytics.fy.webs.nf/js/script.js' id='ZwSg9rf6GA' async defer></script>"
+  customHeadHtml: "<script data-host='https://fy.oo.gd' data-dnt='false' src='https://fy.oo.gd/js/script.js' id='ZwSg9rf6GA' async defer></script>"
   # Uncomment the `baseUrl` line if you don't have a custom domain and add your repo name there
   cname: status.zkyrylo.eu.org
   # baseUrl: /your-repo-name
   logoUrl: https://kiro.pw/favicon.ico
   name: Kiro Status Page
   introTitle: "**Kiro** free2use project. Previously called Platform Group. All projects are owned by an individual with the pseudonym Chiminori."
-  introMessage: You can contact me via [e-mail](mailto:admin@kiro.pw) or [**Telegram**](https://t.me/defaunbot).
+  introMessage: You can contact me via [e-mail](mailto:admin@kiro.pw) or [**KiroSupport**](https://support.kiro.pw).
   navbar:
     - title: Status
       href: /
