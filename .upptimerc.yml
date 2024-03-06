@@ -7,20 +7,12 @@ sites:
     url: https://kiro.pw
   - name: KiroMail
     url: https://m.kiro.pw
-  - name: ShortLink
-    url: https://go.kiro.pw
-  - name: FusionFlow
-    url: https://fusionflow.cc.nf
-  - name: PLTFRM
-    url: https://platform.eu.org
   - name: ytics
     url: https://fy.oo.gd
   - name: KiroDomains Support
     url: https://support.kiro.pw
   - name: KiroAPI
     url: https://api.kiro.pw
-  - name: t.me/FileWithURLBot
-    url: $TG_BOT_PLTFRM
 
 status-website:
   favicon: https://kiro.pw/favicon.png
