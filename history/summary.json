@@ -4,7 +4,7 @@
     "url": "https://kiro.pw",
     "icon": "https://icons.duckduckgo.com/ip3/kiro.pw.ico",
     "slug": "kiro-pw",
-    "status": "up",
+    "status": "down",
     "uptime": "99.57%",
     "uptimeDay": "96.24%",
     "uptimeWeek": "98.53%",
@@ -16,6 +16,7 @@
     "timeMonth": 1189,
     "timeYear": 1411,
     "dailyMinutesDown": {
+      "2024-12-08": 0,
       "2024-12-07": 55,
       "2024-12-06": 95,
       "2024-10-14": 26,
